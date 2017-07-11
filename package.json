@@ -1,0 +1,28 @@
+{
+  "name": "ejercicio_nodejs",
+  "version": "1.0.0",
+  "description": "Primer ejercicio con node.js",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gabyLuTrejo/ex_nodejs.git"
+  },
+  "keywords": [
+    "node",
+    "npm",
+    "json"
+  ],
+  "author": "Gaby Trejo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gabyLuTrejo/ex_nodejs/issues"
+  },
+  "homepage": "https://github.com/gabyLuTrejo/ex_nodejs#readme",
+  "dependencies": {
+    "express": "^4.15.3",
+    "materialize-css": "^0.99.0"
+  }
+}
